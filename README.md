@@ -1,0 +1,2 @@
+# amexDemo
+Get Weather api
